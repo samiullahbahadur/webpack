@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/samiullahbahadur/webpack/issues"
   },
-  "homepage": "https://github.com/samiullahbahadur/webpack#readme"
+  "homepage": "https://github.com/samiullahbahadur/webpack#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@webpack-cli/generators": "^2.4.2",
+    "express": "^4.17.3",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack-dev-middleware": "^5.3.1"
+  }
 }
